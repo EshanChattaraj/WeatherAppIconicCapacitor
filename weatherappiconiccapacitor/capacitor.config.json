@@ -1,0 +1,11 @@
+{
+  "appId": "com.eshanchattaraj.weatherionictest",
+  "appName": "WeatherApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {},
+  "android": {
+    "allowMixedContent": true
+  }
+}
